@@ -1,0 +1,101 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "johndoe@example.com",
+        "phone": "1234567890",
+        "city": "New York",
+        "country": "United States",
+        "profession": "Engineer"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "janesmith@example.com",
+        "phone": "0987654321",
+        "city": "London",
+        "country": "United Kingdom",
+        "profession": "Teacher"
+    },
+    {
+        "firstName": "David",
+        "lastName": "Johnson",
+        "email": "davidjohnson@example.com",
+        "phone": "5555555555",
+        "city": "Sydney",
+        "country": "Australia",
+        "profession": "Doctor"
+    },
+    {
+        "firstName": "Maria",
+        "lastName": "Garcia",
+        "email": "mariagarcia@example.com",
+        "phone": "9999999999",
+        "city": "Madrid",
+        "country": "Spain",
+        "profession": "Lawyer"
+    },
+    {
+        "firstName": "Mohammed",
+        "lastName": "Ali",
+        "email": "mohammedali@example.com",
+        "phone": "7777777777",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "profession": "Architect"
+    },
+    {
+        "firstName": "Luis",
+        "lastName": "Rodriguez",
+        "email": "luisrodriguez@example.com",
+        "phone": "4444444444",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "profession": "Writer"
+    },
+    {
+        "firstName": "Anna",
+        "lastName": "Liu",
+        "email": "annaliu@example.com",
+        "phone": "8888888888",
+        "city": "Beijing",
+        "country": "China",
+        "profession": "Designer"
+    },
+    {
+        "firstName": "Sara",
+        "lastName": "Andersson",
+        "email": "saraandersson@example.com",
+        "phone": "6666666666",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "profession": "Software Developer"
+    },
+    {
+        "firstName": "Ravi",
+        "lastName": "Kumar",
+        "email": "ravikumar@example.com",
+        "phone": "7777777777",
+        "city": "Mumbai",
+        "country": "India",
+        "profession": "Accountant"
+    },
+    {
+        "firstName": "Sophie",
+        "lastName": "Dubois",
+        "email": "sophiedubois@example.com",
+        "phone": "1111111111",
+        "city": "Paris",
+        "country": "France",
+        "profession": "Artist"
+    },
+    {
+        "firstName": "Alex",
+        "lastName": "Andersen",
+        "email": "alexandersen@example.com",
+        "phone": "2222222222",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "profession": "Marketing Manager"
+    }
+]
